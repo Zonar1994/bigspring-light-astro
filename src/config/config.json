@@ -6,8 +6,8 @@
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.png",
-    "logo_width": "200",
-    "logo_height": "38",
+    "logo_width": "210",
+    "logo_height": "53",
     "logo_text": "Astroplate"
   },
 
@@ -35,4 +35,5 @@
     "meta_image": "/images/og-image.png",
     "meta_description": "astro boilerplate"
   }
+  
 }
